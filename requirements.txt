@@ -1,0 +1,7 @@
+google-auth
+google-cloud-storage
+Pillow
+requests
+opencv-python
+google-genai
+python-ffmpeg
