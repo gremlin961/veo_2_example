@@ -2,7 +2,7 @@ google-auth
 google-cloud-storage
 Pillow
 requests
-yaml
+pyyaml
 opencv-python
 google-genai
 ffmpeg-python
